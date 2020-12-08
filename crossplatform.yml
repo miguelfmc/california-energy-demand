@@ -1,0 +1,22 @@
+name: timeseries
+channels:
+  - http://conda.anaconda.org/gurobi
+  - defaults
+dependencies:
+  - jupyter
+  - matplotlib
+  - python=3.7
+  - scikit-learn
+  - numpy
+  - scipy
+  - jupyterlab
+  - statsmodels
+  - seaborn
+  - xlrd
+  - plotly
+  - pandas=1.0.4
+  - fbprophet=0.6.0
+  - ld_impl_linux-64
+  - pygam
+  - nose
+prefix: /home/miguel/anaconda3/envs/timeseries

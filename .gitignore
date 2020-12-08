@@ -1,0 +1,5 @@
+# unused notebooks
+other/*
+
+# jupyter checkpoints
+.ipynb_checkpoints/*

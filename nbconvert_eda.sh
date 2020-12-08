@@ -1,0 +1,1 @@
+jupyter-nbconvert 1_CaliforniaEnergyDemandEDA.ipynb --TagRemovePreprocessor.enabled=True --TagRemovePreprocessor.remove_cell_tags="remove-cell" --TagRemovePreprocessor.remove_input_tags="remove-code" --no-prompt --template centered --to html --output-dir='html_reports'
