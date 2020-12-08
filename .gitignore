@@ -3,3 +3,7 @@ other/*
 
 # jupyter checkpoints
 .ipynb_checkpoints/*
+
+# data
+data/temperature/*
+data/historical/*
